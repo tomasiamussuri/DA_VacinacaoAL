@@ -5,3 +5,9 @@ Esse projeto foi desenvolvido para aprendizado de expliração de dados, identif
 
 Foi utilizado apenas 1/3 da base por causa do volume de dados, e foi utilizado o Google Colab como ferramenta, integrado com a base de dados do Google Drive.
 Bibliotecas utilizadas: Pandas e Plotlty.
+
+# Gráficos
+<p style="text-align: center;">
+<img src="/graficos/grafico_pizza.jpeg">
+<img src="/graficos/grafico_barras.jpeg">
+</p>
